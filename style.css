@@ -78,8 +78,8 @@ p {
   }
 
   .paper.heart {
-    width: 150px;
-    height: 150px;
+    width: 20%;
+    height: 20%;
   }
 
   .paper.image p {
@@ -103,7 +103,7 @@ p {
 
   .paper.heart {
     width: 100px;
-    height: 100px;
+    height:100px;
   }
 
   .paper.image p {
