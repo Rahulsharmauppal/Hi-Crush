@@ -92,6 +92,9 @@ p {
 
   p {
     font-size: 30px;
+    font-family: 'Zeyada';
+    color: rgb(0,0,100);
+    opacity: 0.75;
   }
 }
 
